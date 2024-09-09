@@ -1,5 +1,3 @@
-<?php include('../templates/header.php') ?>
-
 <div class="card w-25 mt-3 pt-4 container">
     <form action="logincheck.php" method="POST">
         <!-- Email input -->
@@ -26,4 +24,3 @@
     </form>
 </div>
 
-<?php include('../templates/footer.php') ?>

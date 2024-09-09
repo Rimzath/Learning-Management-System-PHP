@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMS | Sign in</title>
+    <title>LMS UOC | Sign in</title>
     <link rel="stylesheet" href="loginstyle.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
@@ -13,10 +13,10 @@
 
     <div class="container">
         <div class="content">
-            <h2 class="logo"><i class='bx bxs-book-reader'></i>IMS</h2>
+            <h2 class="logo"><i class='bx bxs-book-reader'></i>LMS UOC</h2>
             <div class="text-sci">
                 <h2>Welcome Back!</h2>
-                <p>One-stop solution administration and academic management!</p>
+                <p>A complete hub for effortless administration and academic management!</p>
                 
             </div>
         </div>
