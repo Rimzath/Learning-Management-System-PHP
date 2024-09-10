@@ -14,6 +14,7 @@
     <div class="container">
         <div class="content">
             <h2 class="logo"><i class='bx bxs-book-reader'></i>LMS UOC</h2>
+            <h2><a href="../home.php" style="color: white;">LMS HOME</a></h2>
             <div class="text-sci">
                 <h2>Welcome Back!</h2>
                 <p>A complete hub for effortless administration and academic management!</p>
